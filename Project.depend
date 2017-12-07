@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1449144945 source:c:\users\khaled\desktop\project\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1450216415 source:c:\users\khaled\desktop\chessmate v2.1 without headers\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450735273 source:c:\users\khaled\desktop\chessmate v3.3\main.c
+	"chessmate.h"
+
+1450735671 c:\users\khaled\desktop\chessmate v3.3\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450735750 source:c:\users\khaled\desktop\chessmate v3.3\code.c
+	"chessmate.h"
+
+1450778776 source:c:\users\khaled\desktop\chessmate v3.4 some repairs\main.c
+	"chessmate.h"
+
+1450778770 c:\users\khaled\desktop\chessmate v3.4 some repairs\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450778984 source:c:\users\khaled\desktop\chessmate v3.4 some repairs\chessmate.c
+	"chessmate.h"
+
+1450778034 source:c:\users\khaled\desktop\chessmate v3.4 some repairs\code.c
+	"chessmate.h"
+
+1450858530 source:c:\users\khaled\desktop\chessmate v3.5\chessmate.c
+	"chessmate.h"
+
+1450779495 c:\users\khaled\desktop\chessmate v3.5\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450857983 source:c:\users\khaled\desktop\chessmate v3.5\main.c
+	"chessmate.h"
+
+1450862720 source:c:\users\khaled\desktop\chessmate v3.6\chessmate.c
+	"chessmate.h"
+
+1450779495 c:\users\khaled\desktop\chessmate v3.6\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450862611 source:c:\users\khaled\desktop\chessmate v3.6\main.c
+	"chessmate.h"
+
+1450862720 source:c:\users\khaled\desktop\chessmate v3.7\chessmate.c
+	"chessmate.h"
+
+1450779495 c:\users\khaled\desktop\chessmate v3.7\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450862611 source:c:\users\khaled\desktop\chessmate v3.7\main.c
+	"chessmate.h"
+
+1450862611 source:c:\users\khaled\desktop\chessmate last version maybe\main.c
+	"chessmate.h"
+
+1450779495 c:\users\khaled\desktop\chessmate last version maybe\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450870109 source:c:\users\khaled\desktop\chessmate last version maybe\chessmate.c
+	"chessmate.h"
+
+1450892928 source:c:\users\khaled\desktop\chessmate last version maybe ++\chessmate.c
+	"chessmate.h"
+
+1450890301 c:\users\khaled\desktop\chessmate last version maybe ++\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450878408 source:c:\users\khaled\desktop\chessmate last version maybe ++\main.c
+	"chessmate.h"
+
+1450900709 source:c:\users\khaled\desktop\chessmate last version + castling\chessmate.c
+	"chessmate.h"
+
+1450900704 c:\users\khaled\desktop\chessmate last version + castling\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450878408 source:c:\users\khaled\desktop\chessmate last version + castling\main.c
+	"chessmate.h"
+
+1450936256 source:c:\users\khaled\desktop\chessmate last version + castling ++\chessmate.c
+	"chessmate.h"
+
+1450900704 c:\users\khaled\desktop\chessmate last version + castling ++\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450878408 source:c:\users\khaled\desktop\chessmate last version + castling ++\main.c
+	"chessmate.h"
+
+1450932658 source:e:\chessmate\chessmate.c
+	"chessmate.h"
+
+1450897106 e:\chessmate\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450874810 source:e:\chessmate\main.c
+	"chessmate.h"
+
+1450936258 source:g:\chessmate\chessmate.c
+	"chessmate.h"
+
+1450900706 g:\chessmate\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450878410 source:g:\chessmate\main.c
+	"chessmate.h"
+
+1450932658 source:c:\users\hosam\desktop\usb\chessmate\chessmate.c
+	"chessmate.h"
+
+1450897106 c:\users\hosam\desktop\usb\chessmate\chessmate.h
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1450874810 source:c:\users\hosam\desktop\usb\chessmate\main.c
+	"chessmate.h"
+
